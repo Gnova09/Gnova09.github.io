@@ -1,0 +1,13 @@
+.header{
+   background: url(https://www.todopaisajes.com/1920x1080/paisaje-del-campo.jpg) no-repeat center;
+   background-size: cover;
+   min-height:  100vh;
+}
+.header .navbar{
+    background: transparent !important;
+ 
+}
+
+.btn{
+    color: white;
+}
